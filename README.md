@@ -6,7 +6,7 @@ Instructions for the software and comments in the program are mainly in Chinese.
 
 Notice:
 
-Before running the Train_Server, you need to have access to the corresponding database "Access". Then you need to put the Database1.accdb in a proper place and change the corresponding address in Train_server(Form2.cs, Form3.cs and Form6.cs). 
+Before running the Train_Server, you need to have access to the corresponding database "Access". Then you need to put the Database1.accdb in a proper place and change the corresponding address in Train_server (Form2.cs, Form3.cs and Form6.cs). 
 
 Before running the The_Trainbooking_Server, you need to have the Train_Server running correctly and connected to Internet. Then you need to change the target IP "TIP" in Server.cs in The_Trainbooking_Server to the IP of the Train_Server, which must be a constant value.
 
