@@ -12,7 +12,7 @@ Before running the The_Trainbooking_Server, you need to have the Train_Server ru
 
 As for the password, you may check the Database1.accdb to find the username and the password for each account. You may also need to check Form1.cs in Train_Server to find the password for the server.
 
-Actually, this version is not well developed as it's done in a few days, which leads to only a few functions and even some potential problems. I just release this program to commemorate the period and provide novices like me an rough example of how to do program like this.
+Actually, this version is not well developed as it's done in a few days, which leads to only a few functions and even some potential problems. This program is releaseed to commemorate that period and provide novices like me a rough example of how to do program like this.
 
 
 Finished in 2017.
